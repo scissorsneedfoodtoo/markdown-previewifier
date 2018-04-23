@@ -2,4 +2,4 @@ Created as the first FreeCodeCamp React project, [Build a Markdown Previewer](ht
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Check it out at https://markdownpreviewifier.herokuapp.com/.
+Check it out at https://scissorsneedfoodtoo.github.io/markdown-previewifier/.
