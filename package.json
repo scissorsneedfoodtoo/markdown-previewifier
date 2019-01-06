@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
-    "react-scripts": "^1.1.5"
+    "react-scripts": "^2.1.3"
   },
   "homepage": "https://scissorsneedfoodtoo.github.io/markdown-previewifier/",
   "scripts": {
